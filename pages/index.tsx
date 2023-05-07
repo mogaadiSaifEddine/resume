@@ -1,3 +1,5 @@
+/* eslint-disable prettier/prettier */
+
 import BigText from 'components/BigText'
 import Container from 'components/Container'
 

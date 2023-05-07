@@ -1,4 +1,5 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
+/* eslint-disable prettier/prettier */
 
 import { NextApiRequest, NextApiResponse } from 'next'
 
