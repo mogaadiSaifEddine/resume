@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 export default function Footer() {
   return (
     <p className='mx-auto my-16 text-center text-quaternary'>
